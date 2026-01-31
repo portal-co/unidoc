@@ -1,0 +1,9 @@
+{
+"description": "Universal documentation system used by Portal Solutions",
+"devDependencies": {
+"zshy": "^0.7.0"
+},
+"name": "@portal-solutions/unidoc",
+"type": "module",
+"workspaces": []
+}
